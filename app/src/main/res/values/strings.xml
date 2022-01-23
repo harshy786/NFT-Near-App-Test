@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Near Labs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_login">User Login</string>
+    <string name="labs">labs</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="email_address">Email Address</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_near_account">Already have Near Account?</string>
+    <string name="walletname_near">walletName.near</string>
+    <string name="login">Login</string>
+    <string name="continue_text">Continue</string>
+    <string name="verification">Verification</string>
+    <string name="email_address_empty">Email Address is Empty</string>
+    <string name="email_address_wrong">Email Address is not Correct</string>
+    <string name="phone_empty">Phone Number is Empty</string>
+    <string name="phone_wrong">Phone Number is not Correct</string>
+
+    <string name="email_message">We\'ve sent a 6-digit verification code to the email address</string>
+    <string name="different_email">Send to a different email address</string>
+
+    <string name="phone_message">We\'ve sent a 6-digit verification code to your phone</string>
+    <string name="different_phone">Send to a different phone number</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="not_receive_your_code">Didn\'t receive your code?</string>
+    <string name="enter_verification_code">Enter verification code</string>
+    <string name="resend_your_code">Resend your code</string>
+    <string name="create_account_message">Enter an Account ID to use with your NEAR account. Your Account ID will be used for all NEAR operations, including sending and receiving assets.</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="wallet_id">WALLET ID</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="login_with_near">Login with NEAR</string>
+    <string name="create_account">Create Account</string>
+    <string name="yourname_near">yourname.near</string>
+    <string name="ex_john_doe">Ex John Doe</string>
+    <string name="send_gift">Send Gift</string>
+    <string name="search_people">Search People</string>
+    <string name="import_text">Import</string>
+    <string name="home">Home</string>
+</resources>
